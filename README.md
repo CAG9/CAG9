@@ -6,4 +6,7 @@
 - 📫 How to reach me: cesar99ag[at]gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
-
+  
+  cesar-arcos
+### Connect with me:
+[![Linkedin: César Arcos-González](https://img.shields.io/badge/-César-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-arcos/)](https://www.linkedin.com/in/cesar-arcos/)
