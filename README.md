@@ -17,3 +17,8 @@
   <img align="left" alt="CAG9's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CAG9&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+  
+<details>
+<summary>:zap: Top Languages</summary>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAG9&theme=radical" alt="top languages">
+  </details>
