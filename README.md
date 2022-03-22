@@ -21,4 +21,4 @@
 <details>
 <summary>:zap: Top Languages</summary>  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAG9&theme=radical" alt="top languages">
-  </details>
+</details>
