@@ -1,4 +1,4 @@
-# Hi there, I'm César <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm César
 
 ## I'm a Data Scientist
 - 🔭 I’m currently working on building a machine learning model to predict when a person with diabetes will develop hypertension
