@@ -1,8 +1,8 @@
 # Hi there, I'm César
 
 ## I'm a Data Scientist
-- 🔭 I’m currently working on building a machine learning model to predict when a person with diabetes will develop hypertension
-- 🌱 I’m currently learning Big Data
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
