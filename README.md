@@ -2,7 +2,7 @@
 
 ## I'm a Data Scientist
 - 🔭 I’m currently working on become a Blockchain developer .
-- 🌱 I’m currently learning: Javascript 
+- 🌱 I’m currently learning: JavaScript 
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
