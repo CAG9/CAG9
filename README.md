@@ -2,7 +2,7 @@
 
 ## I'm a learning to be a Blockchain developer.
 - 🔭 I’m currently working on become a Blockchain developer.
-- 🌱 I’m currently learning: React 
+- 🌱 I’m currently learning: Blockchain and smart contract Fundamentals
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly, the top 20 bitcoins account for 86 percent of the market. 
