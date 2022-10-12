@@ -1,11 +1,11 @@
 # Hi there, I'm César
 
-## I'm a Data Scientist
-- 🔭 I’m currently working on become a Blockchain developer .
+## I'm a learning to be a Blockchain developer.
+- 🔭 I’m currently working on become a Blockchain developer.
 - 🌱 I’m currently learning: React 
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
-- ⚡ Fun fact: Text data comprise 91 percent of the data used in data science
+- ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly, the top 20 bitcoins account for 86 percent of the market. 
   
 ### Connect with me:
 [![Linkedin: César Arcos-González](https://img.shields.io/badge/-César-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-arcos/)](https://www.linkedin.com/in/cesar-arcos/)
