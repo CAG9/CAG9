@@ -1,4 +1,4 @@
-# Hi there, I'm César
+# Hi there, I'm Cesar
 
 ## I'm a learning to be a Blockchain developer.
 - 🔭 I’m currently working on become a Blockchain developer.
