@@ -1,6 +1,6 @@
 # Hi there, I'm Cesar
 
-## I'm learning to be a Blockchain developer.
+## I'm a Data scientist learning to be a Blockchain developer.
 - 🔭 I’m currently working on become a Blockchain developer.
 - 🌱 I’m currently learning: Solidity, Truffle, Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
