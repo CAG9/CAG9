@@ -1,6 +1,6 @@
 # Hi there, I'm Cesar
 
-## I'm a Data scientist an Blockchain enthusiast.
+## I'm a Data scientist and Blockchain enthusiast.
 - 🔭 I’m currently working on Solidity projects and Crypto Analysis.
 - 🌱 I’m currently learning: Solidity, Truffle, Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
