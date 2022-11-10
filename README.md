@@ -2,7 +2,7 @@
 
 ## I'm a Data scientist and Blockchain enthusiast.
 - 🔭 I’m currently working on Solidity projects and Crypto/Blockchain Analysis.
-- 🌱 I’m currently learning: Solidity, Truffle, Ganache.
+- 🌱 I’m currently learning: Solidity, Truffle and Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly, the top 20 bitcoins account for 86 percent of the market. 
