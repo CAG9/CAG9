@@ -1,7 +1,7 @@
 # Hi there, I'm Cesar
 
 ## I'm a Data scientist and Blockchain enthusiast.
-- 🔭 I’m currently working on Solidity projects and Crypto/Blockchain Analysis.
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: Solidity, Truffle and Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
