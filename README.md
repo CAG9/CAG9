@@ -1,11 +1,11 @@
 # Hi there, I'm Cesar
 
 ## I'm a Data scientist and Blockchain enthusiast.
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Airflow projects
 - 🌱 I’m currently learning: Solidity, Truffle and Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
-- ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly, the top 20 bitcoins account for 86 percent of the market. 
+- ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth 
   
 ### Connect with me:
 [![Linkedin: César Arcos-González](https://img.shields.io/badge/-César-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-arcos/)](https://www.linkedin.com/in/cesar-arcos/)
