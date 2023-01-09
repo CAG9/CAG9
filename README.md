@@ -1,6 +1,6 @@
 # Hi there, I'm Cesar
 
-## I'm a Data guy and Blockchain enthusiast.
+## I'm a Data Scientist and Blockchain enthusiast.
 - 🔭 I’m currently working on Airflow projects
 - 🌱 I’m currently learning: Solidity, Truffle and Ganache.
 - 📫 How to reach me: cesar99ag@gmail.com
