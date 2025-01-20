@@ -1,8 +1,8 @@
 # Hi there, I'm Cesar
 
 ## I'm a Data Engineer and Blockchain enthusiast.
-- 🔭 I’m currently working on Cobol projects.
-- 🌱 I’m currently learning: z/os
+- 🔭 I’m currently working on .
+- 🌱 I’m currently learning: 
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth 
