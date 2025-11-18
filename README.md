@@ -1,8 +1,8 @@
 # Hi there, I'm Cesar
 
-## I'm a Data Engineer and Blockchain enthusiast.
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning: 
+## I'm a Data Engineer
+- 🔭 I’m currently working on Data engineer projects.
+- 🌱 I’m currently learning: Databricks
 - 📫 How to reach me: cesar99ag@gmail.com
 - 👨‍💻 Read more about my projects at: Coming Soon.
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth.
