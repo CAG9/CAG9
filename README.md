@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Data engineer projects
 - 🌱 I’m currently learning: Databricks and Azure
 - 📫 How to reach me: cesar99ag@gmail.com
-- 👨‍💻 Read more about my projects at: Coming Soon
+- 👨‍💻 Read more about my projects at: 
 - ⚡ Fun fact: There are approximately 400,000 bytes of data for every grain of sand on earth
   
 ### Connect with me:
