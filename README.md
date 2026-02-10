@@ -9,7 +9,6 @@ data infrastructure, cloud-native tools, and AI-assisted engineering.
 - 🧠 Strong background in **ETL/ELT, distributed systems, analytics engineering, and cloud data stacks**  
 - 🌱 Exploring **advanced data infrastructure patterns, LLM-powered pipelines, and automation**  
 - 👨‍💻 Projects & experiments: check my repositories below  
-- 📫 Reach me at: **cesar99ag@gmail.com**
 ###  Tech Stack
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
