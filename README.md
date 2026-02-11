@@ -8,9 +8,9 @@ data infrastructure, cloud-native tools, and AI-assisted engineering.
 - 🔭 Currently building **data engineering projects using AI agents** for software & data workflows  
 - 🧠 Strong background in **ETL/ELT, distributed systems, analytics engineering, and cloud data stacks**  
 - 🌱 Exploring **advanced data infrastructure patterns, LLM-powered pipelines, and automation**  
-- 👨‍💻 Projects & experiments: check my repositories below  
-###  Tech Stack
+- 👨‍💻 Projects & experiments: check my repositories below
 
+###  Tech Stack
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E3E?style=flat-square&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -29,7 +29,6 @@ data infrastructure, cloud-native tools, and AI-assisted engineering.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
  <!--  ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) -->
-
  <!-- ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)-->
 
 ### Get in touch
