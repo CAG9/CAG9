@@ -34,5 +34,4 @@ data infrastructure, cloud-native tools, and AI-assisted engineering.
 
 ### Get in touch
 - Email: **cesar99ag@gmail.com**
-- LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Arcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-arcos/)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Arcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-arcos/)
