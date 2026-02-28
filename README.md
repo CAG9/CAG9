@@ -31,6 +31,7 @@ data infrastructure, cloud-native tools, and AI-assisted engineering.
  <!--  ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) -->
  <!-- ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)-->
 
+
 ### Get in touch
 - Email: **cesar99ag@gmail.com**
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-César%20Arcos-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-arcos/)
